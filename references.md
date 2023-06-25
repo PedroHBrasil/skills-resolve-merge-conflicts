@@ -1,1 +1,1 @@
-This is my conflicting content <'.'>
+* octocat 1 😈
